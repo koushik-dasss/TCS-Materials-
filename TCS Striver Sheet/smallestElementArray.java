@@ -18,7 +18,7 @@ public class smallestElementArray{
             }
         }
         System.out.println(min);
-
+        sc.close();
     }
     
 }
